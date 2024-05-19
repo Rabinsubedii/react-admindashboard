@@ -19,12 +19,12 @@ body{
   background: var(--bgColor) !important;
 }
 a{
-  color: var(--primary)!important;
+  /* color: var(--primary)!important; */
   text-decoration: none !important;
   cursor: pointer !important;
 }
 a:hover{
-  color: var(--second) !important;
+  /* color: var(--second) !important; */
   text-decoration: none !important;
 }
 
@@ -34,6 +34,6 @@ h3,
 h4,
 h5,
 h6{
-  font-family: 'Nunito', sans-serif !important;
+  font-family: "Open Sans", sans-serif;
 }
 
